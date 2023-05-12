@@ -1,0 +1,15 @@
+{
+    "id": 2,
+    "username": "test123@test.com",
+    "email": "test123@test.com",
+    "nonce": "9f052830-c39a-4bac-81a2-64bf78c38030",
+    "role": 3,
+    "first": "John",
+    "last": "Doe",
+    "company_name": "TestX",
+    "created": "2023-03-13 17:49:22",
+    "last_login": "2023-03-13 17:49:22",
+    "activation_status": 0,
+    "activated_on": null,
+    "uuid": "9f052830-c39a-4bac-81a2-64bf78c38030"
+  }
