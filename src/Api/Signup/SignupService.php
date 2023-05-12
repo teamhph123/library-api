@@ -150,8 +150,8 @@ SQL;
         $headers[] = 'X-Notif: support-hph';
 
         // Additional headers
-        $headers[] = 'From: no-reply <no-reply@hph.io>';
-        $headers[] = 'Bcc: mj@hph.io, malina@hph.io';
+        $headers[] = 'From: no-reply <teamhph123@gmail.com>';
+        $headers[] = 'Bcc: diana99dimitrova@gmail.com';
 
         $message = $Notif->body;
         $to = $obj->email;
